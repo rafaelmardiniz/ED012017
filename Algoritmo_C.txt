@@ -1,0 +1,14 @@
+Algoritmo_Busca_Elemento
+
+Receba vet
+Receba num
+receba elemento
+Achou = 0
+
+Para i=0 ate i<num faca
+	Se vet[i] == elemento entao
+ 		achou = 1
+	        return i;
+ 	Senão
+		 Escreva ("Elemento nao esta no vetor")
+Fim_algoritmo
